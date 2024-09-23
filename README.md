@@ -1,7 +1,7 @@
 # mvcnetcore
 
 _Acá va un párrafo que describa lo que es el proyecto_ 
-_Comentario 6 2_ 
+_Comentario 2 2_ 
 
 ## Comenzando 🚀
 
